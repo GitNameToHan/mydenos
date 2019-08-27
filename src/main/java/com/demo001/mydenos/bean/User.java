@@ -27,4 +27,6 @@ public class User {
     @Column(name = "age", nullable = true, length = 4)
     private Integer age;
 
+
+
 }
