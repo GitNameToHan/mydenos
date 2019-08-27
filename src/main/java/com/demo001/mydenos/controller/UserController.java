@@ -74,4 +74,14 @@ public class UserController {
         return "redirect:/manageruser/";
 
     }
+
+    public void fenzhi(){
+        System.out.println("新增方法");
+    }
+
+    public void musn(){
+
+        System.out.println("--------------------");
+    }
+
 }
